@@ -5,7 +5,7 @@ I am a passionate Data Analyst with a strong background in turning data into act
 ## 🚀 About Me
 
 - 🔍 I specialize in data analysis, data visualization, and data modeling.
-- 💻 I am proficient in SQL, Excel and Power BI.
+- 💻 I am proficient in SQL,Excel and Power BI.
 - 🌱 I’m constantly learning and staying up-to-date with the latest trends in data science and analytics.
 - 👯 I’m looking to collaborate on data-driven projects and contribute to the community.
 
@@ -19,7 +19,7 @@ I am a passionate Data Analyst with a strong background in turning data into act
 
 ### Tools
 - Excel
-- Power BI
+- Power BI Desktop
 - MySQL
 
 
